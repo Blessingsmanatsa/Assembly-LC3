@@ -1,5 +1,5 @@
 ;comp2280
-:blessings Mnatsa
+;blessings Manatsa
 ;assingsment 1
 ;This program will will perform the the bitwise or and and the inclusive-or opperation 
 ;implement OR and XOR

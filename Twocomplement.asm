@@ -1,0 +1,3 @@
+.ORIG  x3000
+
+LD R1, NUM1
